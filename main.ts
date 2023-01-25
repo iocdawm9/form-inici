@@ -37,7 +37,7 @@ import {
   MatTooltipModule,
   MatStepperModule,
 } from '@angular/material';
-import {CheckboxOverviewExample} from './app/full-example';
+import {CheckboxOverviewExample} from './app/form-inici';
 import {HttpModule} from '@angular/http';
 import {HttpClientModule} from '@angular/common/http';
 import {CdkTableModule} from '@angular/cdk/table';

@@ -4,9 +4,9 @@ import {Component} from '@angular/core';
  * @title Basic checkboxes
  */
 @Component({
-  selector: 'full-example',
-  templateUrl: 'full-example.html',
-  styleUrls: ['full-example.css'],
+  selector: 'form-inici',
+  templateUrl: 'form-inici.html',
+  styleUrls: ['form-inici.css'],
 })
 export class CheckboxOverviewExample {
 
