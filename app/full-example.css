@@ -1,0 +1,26 @@
+.toolbar-spacer {
+  flex: 1 1 auto;
+}
+
+mat-card {
+  margin: 16px 16px 0px 16px;
+}
+
+mat-sidenav-container {
+  height: calc(100vh - 64px);
+}
+
+.toolbar-search, mat-placeholder {
+  color: white;
+}
+
+.mat-input-underline {
+    background-color: white;
+}
+
+
+@media (max-width: 600px) {
+    mat-sidenav-container {
+        height: calc(100vh - 56px)
+    }
+}
